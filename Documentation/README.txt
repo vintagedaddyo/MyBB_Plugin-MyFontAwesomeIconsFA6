@@ -86,7 +86,7 @@ replace with:
 
 3) Go to forums Management Edit Forum Settings and edit each forum with your specific Font Awesome Icon.
 
-The CSS name for the font awesome icon. For example: fa-regular fa-comments
+The CSS name for the font awesome icon. For example: fa-solid fa-comments
 
 You can specify a css name to your forum's custom font-awesome icon by going to the ACP => Forum Management => Edit Forum.
 
