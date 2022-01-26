@@ -37,9 +37,11 @@ To Install:
 
 1) Upload The Files, And Go to Admin CP And Activate it!
 
-2) Edit Index template:
+2) Edit Index template: (Optional *) 
 
 Home » Template Sets » Default Templates » Edit Template: index
+
+* this was removed from auto install in previous versions of plugin for fa4 and fa5 for example as plenty of folks use themes that opt to not have forum icons under board stats on index and made more sense to now have this as an optional manual edit.
 
 find:
 
@@ -84,7 +86,7 @@ replace with:
 
 3) Go to forums Management Edit Forum Settings and edit each forum with your specific Font Awesome Icon.
 
-The CSS name for the font awesome icon. For example: fas fa-comments
+The CSS name for the font awesome icon. For example: fa-regular fa-comments
 
 You can specify a css name to your forum's custom font-awesome icon by going to the ACP => Forum Management => Edit Forum.
 
