@@ -19,6 +19,11 @@ You can specify a css name to your forum's custom font-awesome icon by going to 
 
 2/09/22 Current font awesome library included to: fontawesome free 6 ie: 6.0.0
 
+3/16/22 Current font awesome library included to: fontawesome free 6 ie: 6.1.0
+
+5/09/22 Current font awesome library included to: fontawesome free 6 ie: 6.1.1
+
+
 localization support:
 
 -english 
@@ -33,6 +38,11 @@ What is new in version 1.0?
 - updated font awesome version to 6 Beta ie: 6.0.0-beta3 (initially)
 
 - updated font awesome version to 6 ie: 6.0.0 (upon release date)
+
+- updated font awesome version to 6 ie: 6.1.0
+
+- updated font awesome version to 6 ie: 6.1.1
+
 
 To Install:
 
