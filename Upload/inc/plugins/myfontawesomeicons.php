@@ -62,7 +62,7 @@ if(!defined("IN_MYBB"))
 
         // Define an initial default icon
 
-        $db->add_column('forums', 'myfontawesomeicons_icon', 'varchar(25) DEFAULT "fa-solid fa-comments"');
+        $db->add_column('forums', 'myfontawesomeicons_icon', 'varchar(32) DEFAULT "fa-solid fa-comments"');
     }
 
 	function myfontawesomeicons_is_installed()
