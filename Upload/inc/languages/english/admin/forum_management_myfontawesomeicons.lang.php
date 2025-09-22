@@ -1,6 +1,6 @@
 <?php
 /*
- * MyBB: MyFontAwesomeIcons
+ * MyBB: MyFontAwesomeIcons FA6
  *
  * File: forum_management_myfontawesomeicons.lang.php
  * 
@@ -8,7 +8,7 @@
  *
  * MyBB Version: 1.8
  *
- * Plugin Version: 1.0
+ * Plugin Version: 1.1
  * 
  */
 
@@ -19,7 +19,7 @@ $l['myfontawesomeicons_Desc'] = 'Lets you implement custom Font-Awesome 6 icons 
 $l['myfontawesomeicons_Web'] = 'https://github.com/vintagedaddyo/MyBB_Plugin-MyFontAwesomeIconsFA6';
 $l['myfontawesomeicons_Auth'] = 'Ethan DeLong & Vintagedaddyo';
 $l['myfontawesomeicons_AuthSite'] = 'https://github.com/vintagedaddyo/MyBB_Plugin-MyFontAwesomeIconsFA6';
-$l['myfontawesomeicons_Ver'] = '1.0';
+$l['myfontawesomeicons_Ver'] = '1.1';
 $l['myfontawesomeicons_GUID'] = '';
 $l['myfontawesomeicons_Compat'] = '18*';
  
@@ -30,7 +30,7 @@ $l['myfontawesomeicons_desc'] = "Settings for MyFontAwesomeIcons.";
 
 // Forum Management
 
-$l['myfontawesomeicons_forum_icons'] = "Font Awesome Icon";
-$l['myfontawesomeicons_forum_icons_desc'] = "The CSS name for the font awesome icon. For example: fa-solid fa-comments";
+$l['myfontawesomeicons_forum_icons'] = "Font Awesome 6 Icon";
+$l['myfontawesomeicons_forum_icons_desc'] = "The CSS name for the font awesome 6 icon. For example: fa-solid fa-comments";
 
 ?>

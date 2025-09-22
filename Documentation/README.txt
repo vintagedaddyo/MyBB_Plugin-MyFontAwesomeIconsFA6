@@ -1,4 +1,4 @@
-MyFontAwesomeIcons
+MyFontAwesomeIcons FA6
 
 Lets you implement custom Font-Awesome 6 icons for your forums.
 
@@ -6,13 +6,13 @@ Created by Ethan DeLong & Vintagedaddyo
 
 This is a highly modified version of the plugin: MyForumIcons - Custom Forum Icons by Ethan DeLong
 
-Specifically modified by Vintagedaddyo for Font-Awesome implementation after several user requests for something of the sort.
+Specifically modified by Vintagedaddyo for Font-Awesome 6 implementation after several user requests for something of the sort.
 
 
 This will allow you to add custom Font-Awesome icons for your forums.
 
 
-You can specify a css name to your forum's custom font-awesome icon by going to the ACP => Forum Management => Edit Forum.
+You can specify a css name to your forum's custom font-awesome 6 icon by going to the ACP => Forum Management => Edit Forum.
 
 
 1/25/22 Current font awesome library included to: fontawesome free 6 beta ie: 6.0.0-beta3
@@ -22,6 +22,8 @@ You can specify a css name to your forum's custom font-awesome icon by going to 
 3/16/22 Current font awesome library included to: fontawesome free 6 ie: 6.1.0
 
 5/09/22 Current font awesome library included to: fontawesome free 6 ie: 6.1.1
+
+9/21/25 Current font awesome library included to: fontawesome free 6.7.2
 
 
 localization support:
@@ -42,6 +44,12 @@ What is new in version 1.0?
 - updated font awesome version to 6 ie: 6.1.0
 
 - updated font awesome version to 6 ie: 6.1.1
+
+
+What is new in version 1.1?
+
+- updated font awesome version to 6 ie: 6.7.2
+- minor edits / cleanup to files
 
 
 To Install:

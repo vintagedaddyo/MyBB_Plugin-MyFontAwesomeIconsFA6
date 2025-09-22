@@ -1,6 +1,6 @@
 <?php
 /*
- * MyBB: MyFontAwesomeIcons
+ * MyBB: MyFontAwesomeIcons FA6
  *
  * File: forum_management_myfontawesomeicons.lang.php
  * 
@@ -8,7 +8,7 @@
  *
  * MyBB Version: 1.8
  *
- * Plugin Version: 1.0
+ * Plugin Version: 1.1
  * 
  */
 
@@ -19,7 +19,7 @@ $l['myfontawesomeicons_Desc'] = 'Vous permet d implementer des icones Font-Aweso
 $l['myfontawesomeicons_Web'] = 'https://github.com/vintagedaddyo/MyBB_Plugin-MyFontAwesomeIconsFA6';
 $l['myfontawesomeicons_Auth'] = 'Ethan DeLong & Vintagedaddyo';
 $l['myfontawesomeicons_AuthSite'] = 'https://github.com/vintagedaddyo/MyBB_Plugin-MyFontAwesomeIconsFA6';
-$l['myfontawesomeicons_Ver'] = '1.0';
+$l['myfontawesomeicons_Ver'] = '1.1';
 $l['myfontawesomeicons_GUID'] = '';
 $l['myfontawesomeicons_Compat'] = '18*';
  
@@ -30,7 +30,7 @@ $l['myfontawesomeicons_desc'] = "Parametres pour MyFontAwesomeIcons.";
 
 // Forum Management
 
-$l['myfontawesomeicons_forum_icons'] = "Police Awesome Icon";
-$l['myfontawesomeicons_forum_icons_desc'] = "Le nom CSS pour l icône genial de la police. Par exemple: fa-solid fa-comments";
+$l['myfontawesomeicons_forum_icons'] = "Police Awesome 6 Icon";
+$l['myfontawesomeicons_forum_icons_desc'] = "Le nom CSS pour l icone genial de la police. Par exemple: fa-solid fa-comments";
 
 ?>
